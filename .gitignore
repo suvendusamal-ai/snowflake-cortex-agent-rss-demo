@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+config.toml
+*.pem
+*.key
+*.p8
+*.tmp
+*.log
