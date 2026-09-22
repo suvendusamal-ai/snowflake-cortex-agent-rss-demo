@@ -42,7 +42,6 @@ These are validation targets, not claims of observed execution in this packaged 
 - `sql/` — setup, RBAC baseline, semantic view, RSS, custom tools, validation, cleanup
 - `agent/` — Cortex Agent configuration steps
 - `docs/` — architecture, validation evidence template, troubleshooting
-- `linkedin/` — final post draft and publishing checklist
 - `images/` — evidence-image guidance
 
 ## Defense in depth
